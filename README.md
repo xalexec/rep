@@ -17,7 +17,7 @@ cd req
 ```
 npm install
 ``` 
-#### 第四部
+#### 第四步
 ```
 gulp -ws
 ```
@@ -27,4 +27,4 @@ gulp -ws
 The MIT License(http://opensource.org/licenses/MIT) 请自由地享受和参与开源
 ### 贡献
 
-如果你有好的意见或建议，欢迎给我提issue或pull request
+如果你有好的意见或建议，欢迎给我提 issue 或 pull request
