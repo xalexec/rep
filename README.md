@@ -6,13 +6,21 @@ rep 是一个基于 gulp 的 html 模板引擎
 
 ### 使用
 #### 第一步
-```git clone git@github.com:xalexec/rep.git</code>```
+```
+git clone git@github.com:xalexec/rep.git
+```
 #### 第二步
-```cd req```
+```
+cd req
+```
 #### 第三步
-```npm install``` 
+```
+npm install
+``` 
 #### 第四部
-```gulp -ws```
+```
+gulp -ws
+```
 
 ### License
 
